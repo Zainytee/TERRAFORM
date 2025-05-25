@@ -1,6 +1,0 @@
-*.lock
-*.tfstate
-*.hcl
-*.terraform/
-*.exe
-*.txt
